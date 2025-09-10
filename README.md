@@ -1,5 +1,8 @@
 ## Stocks tracking app
 
+<img width="1904" height="1024" alt="Screenshot 2025-09-10 132133" src="https://github.com/user-attachments/assets/c63c5bf1-9cb5-4b1c-8381-eb80f700a156" />
+
+<img width="1905" height="1019" alt="Screenshot 2025-09-10 132345" src="https://github.com/user-attachments/assets/0fa1048f-a2f5-4ce9-8abf-7dd71065b029" />
 
 ## Key Features
 
